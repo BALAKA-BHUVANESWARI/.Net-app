@@ -1,4 +1,4 @@
-# blazor-server-githubactions-demo
+# blazor-server
 Demo application to showcase GitHub Actions for a dotnet core application
 
 ## Build Status
